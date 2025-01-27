@@ -1,29 +1,29 @@
 #EXTM3U url-tvg="http://epg.utako.moe/jcom.xml,https://animenosekai.github.io/japanterebi-xmltv/guide.xml" tvg-shift=0 m3uautoload=1
 #MAIN 日本 地上波
-#EXTINF:-1 tvg-id="ＮＨＫ総合１・東京.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png" group-title="日本 地上波",NHK総合 東京 (要等5秒)
+#EXTINF:-1 tvg-id="ＮＨＫ総合１・東京.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png" group-title="日本 地上波",NHK総合 東京 (要等1秒)
 http://vthanh.utako.moe/NHK_G/index.m3u8
-#EXTINF:-1 tvg-id="ＮＨＫＥテレ１・東京.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png" group-title="日本 地上波",NHK教育 (要等5秒)
+#EXTINF:-1 tvg-id="ＮＨＫＥテレ１・東京.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png" group-title="日本 地上波",NHK教育 (要等1秒)
 http://vthanh.utako.moe/NHK_E/index.m3u8
-#EXTINF:-1 tvg-id="日テレ.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png" group-title="日本 地上波",日本テレビ (要等5秒)
+#EXTINF:-1 tvg-id="日テレ.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png" group-title="日本 地上波",日本テレビ (要等1秒)
 http://vthanh.utako.moe/Nippon_TV/index.m3u8
 #EXTINF:-1 tvg-id="日テレ.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png" group-title="日本 地上波",日本テレビ (要等1秒)
 https://ntv4.mov3.co/hls/ntv.m3u8
-#EXTINF:-1 tvg-id="ＴＢＳ.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/1280px-Tokyo_Broadcasting_System_logo_2020.svg.png" group-title="日本 地上波",TBSテレビ (要等5秒)
+#EXTINF:-1 tvg-id="ＴＢＳ.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/1280px-Tokyo_Broadcasting_System_logo_2020.svg.png" group-title="日本 地上波",TBSテレビ (要等1秒)
 Http://vthanh.utako.moe/TBS/index.m3u8
-#EXTINF:-1 tvg-id="フジテレビ.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png" group-title="日本 地上波",フジテレビ (要等5秒)
+#EXTINF:-1 tvg-id="フジテレビ.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png" group-title="日本 地上波",フジテレビ (要等1秒)
 http://vthanh.utako.moe/Fuji_TV/index.m3u8
-#EXTINF:-1 tvg-id="テレビ朝日.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/1280px-TV_Asahi_Logo.svg.png" group-title="日本 地上波",テレビ朝日 (要等5秒)
+#EXTINF:-1 tvg-id="テレビ朝日.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/1280px-TV_Asahi_Logo.svg.png" group-title="日本 地上波",テレビ朝日 (要等1秒)
 http://vthanh.utako.moe/TV_Asahi/index.m3u8
-#EXTINF:-1 tvg-id="テレビ東京.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/2560px-TV_Tokyo_logo_2023.svg.png" group-title="日本 地上波",テレビ東京 (要等5秒)
+#EXTINF:-1 tvg-id="テレビ東京.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/2560px-TV_Tokyo_logo_2023.svg.png" group-title="日本 地上波",テレビ東京 (要等1秒)
 http://vthanh.utako.moe/TV_Tokyo/index.m3u8
-#EXTINF:-1 tvg-id="tokyo_mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",TOKYO MX1
+#EXTINF:-1 tvg-id="tokyo_mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",TOKYO MX1(要等1秒)
 http://vthanh.utako.moe/Tokyo_MX1/index.m3u8
 #日本 BS
-#EXTINF:-1 tvg-id="nhk_bsp4k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/NHK_BSP4K_2023_logo.svg/1920px-NHK_BSP4K_2023_logo.svg.png",NHK BS4K (要等5秒)
+#EXTINF:-1 tvg-id="nhk_bsp4k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/NHK_BSP4K_2023_logo.svg/1920px-NHK_BSP4K_2023_logo.svg.png",NHK BS4K (要等1秒)
 http://luong.utako.moe/bsp4k_testsignal/index.m3u8
-#EXTINF:-1 tvg-id="ＮＨＫ.ＢＳ１.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png" group-title="日本 BS",NHK BS (要等5秒)
+#EXTINF:-1 tvg-id="ＮＨＫ.ＢＳ１.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png" group-title="日本 BS",NHK BS (要等1秒)
 http://vthanh.utako.moe/NHK_BS/index.m3u8
-#EXTINF:-1 tvg-id="bs_ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/BS4_logo.svg/2560px-BS4_logo.svg.png",BS NTV (要等5秒) 
+#EXTINF:-1 tvg-id="bs_ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/BS4_logo.svg/2560px-BS4_logo.svg.png",BS NTV (要等1秒) 
 http://luong.utako.moe/bsntva11/index.m3u8
 #EXTINF:-1 tvg-id="NHK.BS4K.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/NHK_BSP4K.png" group-title="日本 BS",NHK BSP4K (要等5秒)
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS103&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
@@ -45,21 +45,21 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=BS192&r=FHD&ccode=JP&m=d0:2
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS193&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 tvg-id="スター・チャンネル1.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Star_Channel-Japan.svg/640px-Star_Channel-Japan.svg.png" group-title="日本 BS",スターチャンネル (要等5秒)
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS200&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1  tvg-id="bs11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/BS11_logo.svg/2560px-BS11_logo.svg.pngion_logo_%28rainbow%29.svg.png",BS11 (要等5秒)
+#EXTINF:-1  tvg-id="bs11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/BS11_logo.svg/2560px-BS11_logo.svg.pngion_logo_%28rainbow%29.svg.png",BS11 (要等1秒)
 http://vthanh.utako.moe/BS11/index.m3u8
-#EXTINF:-1 tvg-id="BSアニマックス.jp" tvg-logo="https://i.imgur.com/zpi6mQ3.png" group-title="日本 BS",BSアニマックス (要等5秒)
+#EXTINF:-1 tvg-id="BSアニマックス.jp" tvg-logo="https://i.imgur.com/zpi6mQ3.png" group-title="日本 BS",BSアニマックス (要等1秒)
 http://vthanh.utako.moe/Animax/index.m3u8
 #EXTINF:-1 tvg-id="BS釣りビジョン.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tsuri_vision.png" group-title="日本 BS",釣りビジョン (要等5秒)
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS251&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 tvg-id="Ｍｎｅｔ.jp" tvg-logo="https://www.lyngsat.com/logo/tv/mm/m_net_jp.png" group-title="日本 BS",Mnet (要等5秒)
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS241&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-id="J.SPORTS.1.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/J_Sports_Logo.svg/2560px-J_Sports_Logo.svg.png" group-title="日本 BS",JSPORTS 1 (要等5秒)
+#EXTINF:-1 tvg-id="J.SPORTS.1.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/J_Sports_Logo.svg/2560px-J_Sports_Logo.svg.png" group-title="日本 BS",JSPORTS 1 (要等1秒)
 http://luong.utako.moe/js1/index.m3u8
-#EXTINF:-1 tvg-id="J.SPORTS.2.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/J_Sports_Logo.svg/2560px-J_Sports_Logo.svg.png" group-title="日本 BS",JSPORTS 2 (要等5秒)
+#EXTINF:-1 tvg-id="J.SPORTS.2.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/J_Sports_Logo.svg/2560px-J_Sports_Logo.svg.png" group-title="日本 BS",JSPORTS 2 (要等1秒)
 http://luong.utako.moe/js2/index.m3u8
-#EXTINF:-1 tvg-id="J.SPORTS.3.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/J_Sports_Logo.svg/2560px-J_Sports_Logo.svg.png" group-title="日本 BS",JSPORTS 3 (要等5秒)
+#EXTINF:-1 tvg-id="J.SPORTS.3.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/J_Sports_Logo.svg/2560px-J_Sports_Logo.svg.png" group-title="日本 BS",JSPORTS 3 (要等1秒)
 http://luong.utako.moe/js3/index.m3u8
-#EXTINF:-1 tvg-id="J.SPORTS.4.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/J_Sports_Logo.svg/2560px-J_Sports_Logo.svg.png" group-title="日本 BS",JSPORTS 4 (要等5秒)
+#EXTINF:-1 tvg-id="J.SPORTS.4.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/J_Sports_Logo.svg/2560px-J_Sports_Logo.svg.png" group-title="日本 BS",JSPORTS 4 (要等1秒)
 http://luong.utako.moe/js4/index.m3u8
 #EXTINF:-1 tvg-id="BS日本映画専門チャンネル.jp" tvg-logo="https://i.postimg.cc/ydDMrbTZ/Nihon-Eiga-Senmon-Channel.jpg" group-title="日本 BS",日本映画専門チャンネル (要等5秒)
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS255&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
@@ -102,11 +102,11 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=CS363&r=FHD&ccode=JP&m=d0:2
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS310&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 tvg-id="スカイA.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-a-jp.png" group-title="日本 CS",スカイA (要等5秒)
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS250&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="CS" tvg-id="space_shower" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/SPACE_SHOWER_TV.jpg",Space Shower TV(要等5秒)
+#EXTINF:-1 group-title="CS" tvg-id="space_shower" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/SPACE_SHOWER_TV.jpg",Space Shower TV(要等1秒)
 http://luong.utako.moe/spaceshower/index.m3u8
-#EXTINF:-1 group-title="CS" tvg-id="Pigoo.jp" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pigoo-jp.png",Pigoo (要等5秒)
+#EXTINF:-1 group-title="CS" tvg-id="Pigoo.jp" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pigoo-jp.png",Pigoo (要等1秒)
 http://luong.utako.moe/pigoo/index.m3u8
-#EXTINF:-1 group-title="CS" tvg-id="at-x" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png",AT-X (要等5秒)
+#EXTINF:-1 group-title="CS" tvg-id="at-x" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png",AT-X (要等1秒)
 http://vthanh.utako.moe/AT-X/index.m3u8
 #NEWS
 #EXTINF:-1 tvg-id="日テレNEWS24.jp" tvg-logo="https://about.smartnews.com/wp-content/uploads/2015/07/nnews_icon_512x512.png" group-title="NEWS",日テレNEWS24 (要等5秒)
