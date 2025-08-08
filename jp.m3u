@@ -1,4 +1,16 @@
-EXTINF:-1 group-title="Tokyo" tvg-id="nhk_g_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK G
+#EXTM3U url-tvg="https://epg.freejptv.com/jp.xml,https://animenosekai.github.io/japanterebi-xmltv/guide.xml" tvg-shift=0 m3uautoload=1
+
+#EXTINF:-1 group-title="Information" tvg-logo="https://i.imgur.com/2OINFaA.png",We need donations to maintain the server! | サーバー維持のため寄付募集中！
+https://vn.utako.moe/test/intro.mp4/index.m3u8
+#EXTINF:-1 group-title="Information" tvg-logo="https://i.imgur.com/vFOBppE.png",Donate/寄付: https://ko-fi.com/dinhluong
+https://vn.utako.moe/test/intro.mp4/index.m3u8
+#EXTINF:-1 group-title="Information" tvg-logo="https://cdn-icons-png.flaticon.com/512/0/49.png", Please refrain from re-sharing those URLs! Read github for details.
+https://vn.utako.moe/test/intro.mp4/index.m3u8
+#EXTINF:-1 group-title="Information" tvg-logo="https://cdn-icons-png.flaticon.com/512/0/49.png", 「utako.moe」リンクURLの他所への転載お断り!!詳細はgithubのREADME
+https://vn.utako.moe/test/intro.mp4/index.m3u8
+
+
+#EXTINF:-1 group-title="Tokyo" tvg-id="nhk_g_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK G
 https://vn.utako.moe/NHK_G/index.m3u8
 #EXTINF:-1 group-title="Tokyo" tvg-id="nhk_e_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png",NHK E
 https://vn.utako.moe/NHK_E/index.m3u8
@@ -137,6 +149,7 @@ https://vn.utako.moe/pigoo/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="v_paradise" tvg-logo="https://www.lyngsat.com/logo/tv/vv/v_paradise_jp.png",V Paradise (NSFW)
 https://vn.utako.moe/v_paradise/index.m3u8
 
+
 #EXTINF:-1 tvg-id="NHK.BS4K.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/NHK_BSP4K.png",NHK BSP4K (要等5秒)
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS103&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 tvg-id="ＢＳ日テレ.jp" tvg-logo="https://i.postimg.cc/wvCmCc2p/t-i-xu-ng.png",BS日テレ (要等5秒)
@@ -233,5 +246,6 @@ https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS349&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 tvg-id="日テレNEWS24.jp" tvg-logo="https://about.smartnews.com/wp-content/uploads/2015/07/nnews_icon_512x512.png" group-title="NEWS",日テレNEWS24 (Official1)
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+
 
 
