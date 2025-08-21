@@ -1,3 +1,5 @@
+#EXTM3U url-tvg="https://epg.freejptv.com/jp.xml,https://animenosekai.github.io/japanterebi-xmltv/guide.xml" tvg-shift=0 m3uautoload=1
+
 #EXTINF:-1,NTV
 https://mt01.utako.moe/Nippon_TV/index.m3u8
 #EXTINF:-1,NHK E
