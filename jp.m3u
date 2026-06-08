@@ -1,107 +1,189 @@
-#EXTM3U url-tvg="https://github.com/karenda-jp/etc/raw/refs/heads/main/guides.xml,https://github.com/mathlabroom/SKyperfectv-EPG-/releases/download/latest/epg_ultimate.xml,http://akariko.netgenx.site/epg/kai-epg.xml,https://animenosekai.github.io/japanterebi-xmltv/guide.xml" tvg-shift=0 m3uautoload=1
-#EXTINF:-1 group-title="ラクテンTV" tvg-id="rch_102" tvg-name="QVC" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/117_qvc.png",QVC
-https://d1flvb4iqlercm.cloudfront.net/r-channel/live.m3u8
-#EXTINF:-1 group-title="ラクテンTV" tvg-id="rch_112" tvg-name="GSTV" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/118_gstv.png",GSTV
-https://rch01e-alive-hls.akamaized.net/15bcd044c531aa99/out/v1/339db39dc83c421f94a8cebb777e4d02/index.m3u8
-#EXTINF:-1 group-title="地上デジタル" tvg-id="hdgd04" tvg-name="TBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/250px-Tokyo_Broadcasting_System_logo_2020.svg.png",TBS
-http://akariko.netgenx.site/stream/jp/tbs/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="地上デジタル" tvg-id="gx02" tvg-name="ABC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Asahi_Broadcasting_Corporation_Logo.svg/250px-Asahi_Broadcasting_Corporation_Logo.svg.png",ABC
-http://akariko.netgenx.site/stream/jp/abc/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="地上デジタル" tvg-id="jp10" tvg-name="TOKYO MX2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/250px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",TOKYO MX2 (HD 720p)
-http://akariko.netgenx.site/stream/jp/tokyo_mx2/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="BS放送" tvg-id="jp20" tvg-name="NHK BS (Sub Ch.)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png",NHK BS (Sub Ch.)
-http://akariko.netgenx.site/stream/jp/nhk_bs_%28subch%29/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="地上デジタル" tvg-id="gx05" tvg-name="TV Osaka" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Tv_osaka_logo.svg/250px-Tv_osaka_logo.svg.png",TV Osaka
-http://akariko.netgenx.site/stream/jp/tv_osaka/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="BS放送" tvg-id="bs03" tvg-name="BS Asahi" tvg-logo="https://www.bs-asahi.co.jp/wp-content/uploads/2021/06/oglogo.jpg",BS Asahi
-http://akariko.netgenx.site/stream/jp/bs_asahi/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="BS放送" tvg-id="bs11" tvg-name="NHK BS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png",NHK BS
-http://akariko.netgenx.site/stream/jp/nhk_bs/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="BS放送" tvg-id="bs05" tvg-name="BS TV Tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/BS_TV_Tokyo_%28Japanese%29_2023.svg/250px-BS_TV_Tokyo_%28Japanese%29_2023.svg.png",BS TV Tokyo
-http://akariko.netgenx.site/stream/jp/bs_tv_tokyo/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="BS放送" tvg-id="CH.622" tvg-name="WOWOW Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/WOWOW_logo.svg/250px-WOWOW_logo.svg.png",WOWOW Live
-http://akariko.netgenx.site/stream/jp/wowow_live/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="CS放送" tvg-id="rch_85" tvg-name="Kayo Pops" tvg-logo="https://portal.hikoichi-tv.com/wp-content/uploads/2019/12/kayoupopsLOGO.jpg",Kayo Pops
-http://akariko.netgenx.site/stream/jp/kayo_pops/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="CS放送" tvg-id="rch_30" tvg-name="Tetsudo Channel" tvg-logo="https://prcdn.freetls.fastly.net/release_image/20447/11/20447-11-b34a485c3d5a2ac9c6b55ff3fafe2cd8-587x587.png",Tetsudo Channel
-http://akariko.netgenx.site/stream/jp/tetsudo_channel/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="CS放送" tvg-id="rch_75" tvg-name="Golf Network" tvg-logo="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch480/754.png",Golf Network
-http://akariko.netgenx.site/stream/jp/golf_network/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="CS放送" tvg-id="CH.571" tvg-name="NTV News24" tvg-logo="https://commons.wikimedia.org/w/thumb.php?f=Nippon_TV_logo_2014.svg&w=200",NTV News24
-http://akariko.netgenx.site/stream/jp/ntv_news24/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="CS放送" tvg-id="CH.565" tvg-name="BBC News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/BBC_News_2019.svg/250px-BBC_News_2019.svg.png",BBC News
-http://akariko.netgenx.site/stream/jp/bbc_news/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="CS放送" tvg-id="CH.606" tvg-name="JSport 3" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/71/jsports3_logo.jpg",JSport 3
-http://akariko.netgenx.site/stream/jp/jsport_3/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="CS放送" tvg-id="CH.605" tvg-name="JSport 4" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/74/jsports4_logo.jpg",JSport 4
-http://akariko.netgenx.site/stream/jp/jsport_4/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="CS放送" tvg-id="CH.580" tvg-name="Sport Live Plus" tvg-logo="https://image-origin.hikaritv.net/tv/ch_logos/753.jpg",Sport Live Plus
-http://akariko.netgenx.site/stream/jp/sport_live_plus/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="CS放送" tvg-id="CH.631" tvg-name="The Cinema" tvg-logo="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch480/252.png",The Cinema
-http://akariko.netgenx.site/stream/jp/the_cinema/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="CS放送" tvg-id="CH.654" tvg-name="LaLa TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e5/LaLa_TV.png",LaLa TV
-http://akariko.netgenx.site/stream/jp/lala_tv/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="CS放送" tvg-id="CH.662" tvg-name="Jidaigeki Senmon" tvg-logo="https://i.imgur.com/8T72RIH.png",Jidaigeki Senmon
-http://akariko.netgenx.site/stream/jp/jidaigeki_senmon/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="CS放送" tvg-id="CH.670" tvg-name="Animax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/250px-Animax.svg.png",Animax
-http://akariko.netgenx.site/stream/jp/animax/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="CS放送" tvg-id="CH.611" tvg-name="TV Asahi Channel 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/250px-TV_Asahi_Logo.svg.png",TV Asahi Channel 1
-http://akariko.netgenx.site/stream/jp/tv_asahi_channel_1/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="CS放送" tvg-id="CH.614" tvg-name="Fuji TV ONE" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/250px-Fuji_TV_Logo.svg.png",Fuji TV ONE
-http://akariko.netgenx.site/stream/jp/fuji_tv_one/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="CS放送" tvg-id="CH.640" tvg-name="MTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/250px-MTV_2021_%28brand_version%29.svg.png",MTV
-http://akariko.netgenx.site/stream/jp/mtv/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="CS放送" tvg-id="CH.613" tvg-name="Fuji TV NEXT" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/250px-Fuji_TV_Logo.svg.png",Fuji TV NEXT
-http://akariko.netgenx.site/stream/jp/fuji_tv_next/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="CS放送" tvg-id="CH.668" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/250px-Cartoon_Network_2010_logo.svg.png",Cartoon Network
-http://akariko.netgenx.site/stream/jp/cartoon_network/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="CS放送" tvg-id="CH.639" tvg-name="Music Japan TV" tvg-logo="https://i.imgur.com/DkF8YZq.jpeg",Music Japan TV
-http://akariko.netgenx.site/stream/jp/music_japan_tv/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="CS放送" tvg-id="CH.675" tvg-name="National Geographic Japan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/National_Geographic_Logo.svg/250px-National_Geographic_Logo.svg.png",National Geographic Japan
-http://akariko.netgenx.site/stream/jp/national_geographic_japan/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="CS放送" tvg-id="CH.672" tvg-name="Disney Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/2002_Disney_Channel_full_logo.svg/250px-2002_Disney_Channel_full_logo.svg.png",Disney Junior
-http://akariko.netgenx.site/stream/jp/disney_junior/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="CS放送" tvg-id="CH.641" tvg-name="Music ON TV" tvg-logo="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch480/653.png",Music ON TV
-http://akariko.netgenx.site/stream/jp/music_on_tv/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="CS放送" tvg-id="bs26" tvg-name="Space Shower TV (HD)" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_73.png",Space Shower TV (HD)
-http://akariko.netgenx.site/stream/jp/space_shower_tv/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="CS放送" tvg-id="CH.677" tvg-name="Animal Planet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/250px-Animal_Planet_logo.svg.png",Animal Planet
-http://akariko.netgenx.site/stream/jp/animal_planet/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="CS放送" tvg-id="fastch_v2_samri" tvg-name="時代劇TV (FAST)" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/samri/channel_logo",時代劇TV (FAST)
-https://livetv.fastv.jp/channel_assembly/696074B664B80F46A876/master.m3u8
-#EXTINF:-1 group-title="CS放送" tvg-id="fastch_v2_busns" tvg-name="ビジネス・プレミアム (FAST)" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/busns/channel_logo",ビジネス・プレミアム (FAST)
-https://livetv.fastv.jp/channel_assembly/69607EBD725E0F65BEE4/master.m3u8
-#EXTINF:-1 group-title="CS放送" tvg-id="fastch_v2_asdrm" tvg-name="エンタメ・アジア (FAST)" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/asdrm/channel_logo",エンタメ・アジア (FAST)
-https://livetv.fastv.jp/channel_assembly/696078CF64B81069221E/master.m3u8
-#EXTINF:-1 group-title="CS放送" tvg-id="fastch_v2_entns" tvg-name="エンタメニュース (FAST)" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/entns/channel_logo",エンタメニュース (FAST)
-https://livetv.fastv.jp/channel_assembly/6960899D64B80F9C740C/master.m3u8
-#EXTINF:-1 group-title="CS放送" tvg-id="fastch_v2_comdy" tvg-name="LeminoTV (FAST)" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/comdy/channel_logo",LeminoTV (FAST)
-https://livetv.fastv.jp/channel_assembly/696082290000105F1525/master.m3u8
-#EXTINF:-1 group-title="CS放送" tvg-id="fastch_v2_news1" tvg-name="丸ごと九州 (FAST)" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/news1/channel_logo",丸ごと九州 (FAST)
-https://livetv.fastv.jp/channel_assembly/696090F573F51039B31F/master.m3u8
-#EXTINF:-1 group-title="CS放送" tvg-id="fastch_v2_jpthp" tvg-name="ぴあ落語ざんまい (FAST)" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/jpthp/channel_logo",ぴあ落語ざんまい (FAST)
-https://livetv.fastv.jp/channel_assembly/69608EE9725E0F73BF30/master.m3u8
-#EXTINF:-1 group-title="CS放送" tvg-id="fastch_v2_snyon" tvg-name="FASHIONPLUS (FAST)" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/snyon/channel_logo",FASHIONPLUS (FAST)
-https://livetv.fastv.jp/channel_assembly/69609952725E0FA3B987/master.m3u8
-#EXTINF:-1 group-title="CS放送" tvg-id="fastch_v2_goshogi" tvg-name="囲碁・将棋ライト (FAST)" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/goshogi/channel_logo",囲碁・将棋ライト (FAST)
-https://livetv.fastv.jp/channel_assembly/69998C7B725E30DA4170/master.m3u8
-#EXTINF:-1 group-title="CS放送" tvg-id="fastch_v2_hokkaido" tvg-name="丸ごと北海道 (FAST)" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/hokkaido/channel_logo",丸ごと北海道 (FAST)
-https://livetv.fastv.jp/channel_assembly/69998D0964B83951E552/master.m3u8
-#EXTINF:-1 group-title="CS放送" tvg-id="fastch_v2_tokai" tvg-name="東海ロキポ (FAST)" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/tokai/channel_logo",東海ロキポ (FAST)
-https://livetv.fastv.jp/channel_assembly/69998DB5725E30535DA6/master.m3u8
-#EXTINF:-1 group-title="CS放送" tvg-id="fastch_v2_pett1" tvg-name="ペットTV (FAST)" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/pett1/channel_logo",ペットTV (FAST)
-https://livetv.fastv.jp/channel_assembly/69551F080000E209AD09/master.m3u8
-#EXTINF:-1 group-title="CS放送" tvg-id="fastch_v2_camng" tvg-name="キャンプ・アウトドア (FAST)" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/camng/channel_logo",キャンプ・アウトドア (FAST)
-https://livetv.fastv.jp/channel_assembly/69607E1D725E0FB5AC23/master.m3u8
-#EXTINF:-1 group-title="CS放送" tvg-id="fastch_v2_travl" tvg-name="今日のごはんなに? (FAST)" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/travl/channel_logo",今日のごはんなに? (FAST)
-https://livetv.fastv.jp/channel_assembly/696095BC725E0FE5F3E9/master.m3u8
-#EXTINF:-1 group-title="CS放送" tvg-id="fastch_v2_recip" tvg-name="観るたび (FAST)" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/recip/channel_logo",観るたび (FAST)
-https://livetv.fastv.jp/channel_assembly/6960965C64B80F2C027D/master.m3u8
-#EXTINF:-1 group-title="CS放送" tvg-id="fastch_v2_krdrm" tvg-name="韓流チャンネル (FAST)" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/krdrm/channel_logo",韓流チャンネル (FAST)
-https://livetv.fastv.jp/channel_assembly/6960905473F5101B6A17/master.m3u8
-#EXTINF:-1 group-title="CS放送" tvg-id="NHKWorldJapan.jp" tvg-name="NHK World-Japan" tvg-logo="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch220/181.png",NHK World-Japan
-https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
-#EXTINF:-1 group-title="CS放送" tvg-id="fastch_v2_bgolf" tvg-name="GOLF LIFE (FAST)" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/bgolf/channel_logo",GOLF LIFE (FAST)
-https://livetv.fastv.jp/channel_assembly/69607D5C725E103DDF9D/master.m3u8
-#EXTINF:-1 group-title="CS放送" tvg-id="fastch_v2_kids" tvg-name="アニマックス FREE (FAST)" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/kids/channel_logo",アニマックス FREE (FAST)
-https://livetv.fastv.jp/channel_assembly/69608FB2725E0FA3B972/master.m3u8
+#EXTM3U
+#EXTINF:-1 group-title="" tvg-id="NHK大阪・総合_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7D70-011-400x400.png?",(haru) NHK大阪・総合
+http://ha-ip.f5.si:9394/stream/25.m3u8
+#EXTINF:-1 group-title="" tvg-id="サンテレビ_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7D56-031-400x400.png?",(haru) サンテレビ
+http://ha-ip.f5.si:9394/stream/23.m3u8
+#EXTINF:-1 group-title="" tvg-id="テレビ朝日_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE5-051-400x400.png?",(haru) テレビ朝日
+http://ha-ip.f5.si:9394/stream/7.m3u8
+#EXTINF:-1 group-title="" tvg-id="NHK京都・総合_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7D70-011-400x400.png?",(haru) NHK京都・総合
+http://ha-ip.f5.si:9394/stream/321.m3u8
+#EXTINF:-1 group-title="" tvg-id="KBS京都_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7D66-051-400x400.png?",(haru) KBS京都
+http://ha-ip.f5.si:9394/stream/116.m3u8
+#EXTINF:-1 group-title="" tvg-id="ABCテレビ_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FD3-061-400x400.png?",(haru) ABCテレビ
+http://ha-ip.f5.si:9394/stream/28.m3u8
+#EXTINF:-1 group-title="" tvg-id="TBS_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE3-061-400x400.png?",(haru) TBS
+http://ha-ip.f5.si:9394/stream/5.m3u8
+#EXTINF:-1 group-title="" tvg-id="フジテレビ_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE4-081-400x400.png?",(haru) フジテレビ
+http://ha-ip.f5.si:9394/stream/12.m3u8
+#EXTINF:-1 group-title="" tvg-id="NHK東京・教育_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE1-021-400x400.png?",(haru) NHK東京・教育
+http://ha-ip.f5.si:9394/stream/3.m3u8
+#EXTINF:-1 group-title="" tvg-id="日本テレビ_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE2-041-400x400.png?",(haru) 日本テレビ
+http://ha-ip.f5.si:9394/stream/4.m3u8
+#EXTINF:-1 group-title="" tvg-id="毎日テレビ_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FD2-041-400x400.png?",(haru) 毎日テレビ
+http://ha-ip.f5.si:9394/stream/18.m3u8
+#EXTINF:-1 group-title="" tvg-id="テレ東_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE6-071-400x400.png?",(haru) テレ東
+http://ha-ip.f5.si:9394/stream/8.m3u8
+#EXTINF:-1 group-title="" tvg-id="テレビ大阪_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7D76-071-400x400.png?",(haru) テレビ大阪
+http://ha-ip.f5.si:9394/stream/22.m3u8
+#EXTINF:-1 group-title="" tvg-id="読売テレビ_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FD5-101-400x400.png?",(haru) 読売テレビ
+http://ha-ip.f5.si:9394/stream/21.m3u8
+#EXTINF:-1 group-title="" tvg-id="NHK・BSP_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-000b-101-400x400.png?",(haru) NHK・BSP
+http://ha-ip.f5.si:9394/stream/163.m3u8
+#EXTINF:-1 group-title="" tvg-id="関西テレビ_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FD4-081-400x400.png?",(haru) 関西テレビ
+http://ha-ip.f5.si:9394/stream/20.m3u8
+#EXTINF:-1 group-title="" tvg-id="J-COM-BS_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-260-400x400.png?",(haru) J-COM-BS
+http://ha-ip.f5.si:9394/stream/33.m3u8
+#EXTINF:-1 group-title="" tvg-id="BS朝日_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-151-400x400.png?",(haru) BS朝日
+http://ha-ip.f5.si:9394/stream/35.m3u8
+#EXTINF:-1 group-title="" tvg-id="NHK・BS_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-101-400x400.png?",(haru) NHK・BS
+http://ha-ip.f5.si:9394/stream/32.m3u8
+#EXTINF:-1 group-title="" tvg-id="TOKYO・MX_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7E87-091-400x400.png?",(haru) TOKYO・MX
+http://ha-ip.f5.si:9394/stream/17.m3u8
+#EXTINF:-1 group-title="" tvg-id="BSフジ_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-181-400x400.png?",(haru) BSフジ
+http://ha-ip.f5.si:9394/stream/38.m3u8
+#EXTINF:-1 group-title="" tvg-id="BS10プレミアム_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-0004-201-400x400.png?",(haru) BS10プレミアム
+http://ha-ip.f5.si:9394/stream/52.m3u8
+#EXTINF:-1 group-title="" tvg-id="BS日テレ_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-141-400x400.png?",(haru) BS日テレ
+http://ha-ip.f5.si:9394/stream/44.m3u8
+#EXTINF:-1 group-title="" tvg-id="WOWOWプラス_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-155-400x400.png?",(haru) WOWOWプラス
+http://ha-ip.f5.si:9394/stream/55.m3u8
+#EXTINF:-1 group-title="" tvg-id="BS11-イレブン_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-211-400x400.png?",(haru) BS11-イレブン
+http://ha-ip.f5.si:9394/stream/157.m3u8
+#EXTINF:-1 group-title="" tvg-id="BSテレ東_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-171-400x400.png?",(haru) BSテレ東
+http://ha-ip.f5.si:9394/stream/37.m3u8
+#EXTINF:-1 group-title="" tvg-id="WOWOWプライム_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-191-400x400.png?",(haru) WOWOWプライム
+http://ha-ip.f5.si:9394/stream/39.m3u8
+#EXTINF:-1 group-title="" tvg-id="BS12トゥエルビ_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-222-400x400.png?",(haru) BS12トゥエルビ
+http://ha-ip.f5.si:9394/stream/114.m3u8
+#EXTINF:-1 group-title="" tvg-id="釣りビジョン_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-145-400x400.png?",(haru) 釣りビジョン
+http://ha-ip.f5.si:9394/stream/98.m3u8
+#EXTINF:-1 group-title="" tvg-id="BS-TBS_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-161-400x400.png?",(haru) BS-TBS
+http://ha-ip.f5.si:9394/stream/36.m3u8
+#EXTINF:-1 group-title="" tvg-id="ゴルフネットワーク_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-167-400x400.png?",(haru) ゴルフネットワーク
+http://ha-ip.f5.si:9394/stream/67.m3u8
+#EXTINF:-1 group-title="" tvg-id="グリーンチャンネル_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-164-400x400.png?",(haru) グリーンチャンネル
+http://ha-ip.f5.si:9394/stream/60.m3u8
+#EXTINF:-1 group-title="" tvg-id="WOWOWシネマ_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-193-400x400.png?",(haru) WOWOWシネマ
+http://ha-ip.f5.si:9394/stream/41.m3u8
+#EXTINF:-1 group-title="" tvg-id="WOWOWライブ_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-192-400x400.png?",(haru) WOWOWライブ
+http://ha-ip.f5.si:9394/stream/40.m3u8
+#EXTINF:-1 group-title="" tvg-id="J-SPORTS-3_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-158-400x400.png?",(haru) J-SPORTS-3
+http://ha-ip.f5.si:9394/stream/70.m3u8
+#EXTINF:-1 group-title="" tvg-id="J-SPORTS-2_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-169-400x400.png?",(haru) J-SPORTS-2
+http://ha-ip.f5.si:9394/stream/69.m3u8
+#EXTINF:-1 group-title="" tvg-id="J-SPORTS-4_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65534-132-400x400.png?",(haru) J-SPORTS-4
+http://ha-ip.f5.si:9394/stream/71.m3u8
+#EXTINF:-1 group-title="" tvg-id="ムービープラス_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65534-122-400x400.png?",(haru) ムービープラス
+http://ha-ip.f5.si:9394/stream/73.m3u8
+#EXTINF:-1 group-title="" tvg-id="BSよしもと_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-265-400x400.png?",(haru) BSよしもと
+http://ha-ip.f5.si:9394/stream/53.m3u8
+#EXTINF:-1 group-title="" tvg-id="スカイA_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-147-400x400.png?",(haru) スカイA
+http://ha-ip.f5.si:9394/stream/72.m3u8
+#EXTINF:-1 group-title="" tvg-id="J-SPORTS-1_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-168-400x400.png?",(haru) J-SPORTS-1
+http://ha-ip.f5.si:9394/stream/68.m3u8
+#EXTINF:-1 group-title="" tvg-id="アニマックス_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-149-400x400.png?",(haru) アニマックス
+http://ha-ip.f5.si:9394/stream/56.m3u8
+#EXTINF:-1 group-title="" tvg-id="日テレジータス_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-166-400x400.png?",(haru) 日テレジータス
+http://ha-ip.f5.si:9394/stream/90.m3u8
+#EXTINF:-1 group-title="" tvg-id="アニマルプラネット_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-186-400x400.png?",(haru) アニマルプラネット
+http://ha-ip.f5.si:9394/stream/76.m3u8
+#EXTINF:-1 group-title="" tvg-id="GAORA-SPORTS_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-146-400x400.png?",(haru) GAORA-SPORTS
+http://ha-ip.f5.si:9394/stream/1.m3u8
+#EXTINF:-1 group-title="" tvg-id="ディズニー・チャンネル_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-183-400x400.png?",(haru) ディズニー・チャンネル
+http://ha-ip.f5.si:9394/stream/58.m3u8
+#EXTINF:-1 group-title="" tvg-id="カートゥーン-ネットワーク_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-171-400x400.png?",(haru) カートゥーン-ネットワーク
+http://ha-ip.f5.si:9394/stream/82.m3u8
+#EXTINF:-1 group-title="" tvg-id="キッズステーション_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-163-400x400.png?",(haru) キッズステーション
+http://ha-ip.f5.si:9394/stream/81.m3u8
+#EXTINF:-1 group-title="" tvg-id="日本映画専門チャンネル_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65534-125-400x400.png?",(haru) 日本映画専門チャンネル
+http://ha-ip.f5.si:9394/stream/57.m3u8
+#EXTINF:-1 group-title="" tvg-id="時代劇専門チャンネル_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-159-400x400.png?",(haru) 時代劇専門チャンネル
+http://ha-ip.f5.si:9394/stream/88.m3u8
+#EXTINF:-1 group-title="" tvg-id="ナショナル-ジオグラフィック_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-142-400x400.png?",(haru) ナショナル-ジオグラフィック
+http://ha-ip.f5.si:9394/stream/75.m3u8
+#EXTINF:-1 group-title="" tvg-id="衛星劇場_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-127-400x400.png?",(haru) 衛星劇場
+http://ha-ip.f5.si:9394/stream/84.m3u8
+#EXTINF:-1 group-title="" tvg-id="ディズニージュニア_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-130-400x400.png?",(haru) ディズニージュニア
+http://ha-ip.f5.si:9394/stream/89.m3u8
+#EXTINF:-1 group-title="" tvg-id="ザ・シネマ_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65534-133-400x400.png?",(haru) ザ・シネマ
+http://ha-ip.f5.si:9394/stream/141.m3u8
+#EXTINF:-1 group-title="" tvg-id="チャンネル銀河_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65534-135-400x400.png?",(haru) チャンネル銀河
+http://ha-ip.f5.si:9394/stream/124.m3u8
+#EXTINF:-1 group-title="" tvg-id="MONDOTV_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-160-400x400.png?",(haru) MONDOTV
+http://ha-ip.f5.si:9394/stream/143.m3u8
+#EXTINF:-1 group-title="" tvg-id="フジテレビONE_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-138-400x400.png?",(haru) フジテレビONE
+http://ha-ip.f5.si:9394/stream/146.m3u8
+#EXTINF:-1 group-title="" tvg-id="アニメシアター(AT-X)_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-182-400x400.png?",(haru) アニメシアター(AT-X)
+http://ha-ip.f5.si:9394/stream/107.m3u8
+#EXTINF:-1 group-title="" tvg-id="ホームドラマチャンネル_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-141-400x400.png?",(haru) ホームドラマチャンネル
+http://ha-ip.f5.si:9394/stream/86.m3u8
+#EXTINF:-1 group-title="" tvg-id="東映チャンネル_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-173-400x400.png?",(haru) 東映チャンネル
+http://ha-ip.f5.si:9394/stream/85.m3u8
+#EXTINF:-1 group-title="" tvg-id="フジテレビNEXT_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-137-400x400.png?",(haru) フジテレビNEXT
+http://ha-ip.f5.si:9394/stream/148.m3u8
+#EXTINF:-1 group-title="" tvg-id="フジテレビTWO_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-139-400x400.png?",(haru) フジテレビTWO
+http://ha-ip.f5.si:9394/stream/147.m3u8
+#EXTINF:-1 group-title="" tvg-id="映画・チャンネルNECO_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-151-400x400.png?",(haru) 映画・チャンネルNECO
+http://ha-ip.f5.si:9394/stream/83.m3u8
+#EXTINF:-1 group-title="" tvg-id="メ～テレNEXT_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-187-400x400.png?",(haru) メ～テレNEXT
+http://ha-ip.f5.si:9394/stream/308.m3u8
+#EXTINF:-1 group-title="" tvg-id="日テレプラス_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-190-400x400.png?",(haru) 日テレプラス
+http://ha-ip.f5.si:9394/stream/237.m3u8
+#EXTINF:-1 group-title="" tvg-id="アクションチャンネル_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-148-400x400.png?",(haru) アクションチャンネル
+http://ha-ip.f5.si:9394/stream/137.m3u8
+#EXTINF:-1 group-title="" tvg-id="ファミリー劇場_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-157-400x400.png?",(haru) ファミリー劇場
+http://ha-ip.f5.si:9394/stream/87.m3u8
+#EXTINF:-1 group-title="" tvg-id="TBSチャンネル2_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-176-400x400.png?",(haru) TBSチャンネル2
+http://ha-ip.f5.si:9394/stream/145.m3u8
+#EXTINF:-1 group-title="" tvg-id="ミステリーチャンネル_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-153-400x400.png?",(haru) ミステリーチャンネル
+http://ha-ip.f5.si:9394/stream/323.m3u8
+#EXTINF:-1 group-title="" tvg-id="テレ朝チャンネル2_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-188-400x400.png?",(haru) テレ朝チャンネル2
+http://ha-ip.f5.si:9394/stream/161.m3u8
+#EXTINF:-1 group-title="" tvg-id="ヒストリーチャンネル_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65534-134-400x400.png?",(haru) ヒストリーチャンネル
+http://ha-ip.f5.si:9394/stream/309.m3u8
+#EXTINF:-1 group-title="" tvg-id="TBSチャンネル1_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-144-400x400.png?",(haru) TBSチャンネル1
+http://ha-ip.f5.si:9394/stream/144.m3u8
+#EXTINF:-1 group-title="" tvg-id="テレ朝チャンネル1_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-136-400x400.png?",(haru) テレ朝チャンネル1
+http://ha-ip.f5.si:9394/stream/160.m3u8
+#EXTINF:-1 group-title="" tvg-id="Dlife(ディーライフ)_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65534-131-400x400.png?",(haru) Dlife(ディーライフ)
+http://ha-ip.f5.si:9394/stream/95.m3u8
+#EXTINF:-1 group-title="" tvg-id="LaLa-TV_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65534-123-400x400.png?",(haru) LaLa-TV
+http://ha-ip.f5.si:9394/stream/132.m3u8
+#EXTINF:-1 group-title="" tvg-id="旅チャンネル_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-143-400x400.png?",(haru) 旅チャンネル
+http://ha-ip.f5.si:9394/stream/138.m3u8
+#EXTINF:-1 group-title="" tvg-id="囲碁・将棋チャンネル_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-196-400x400.png?",(haru) 囲碁・将棋チャンネル
+http://ha-ip.f5.si:9394/stream/136.m3u8
+#EXTINF:-1 group-title="" tvg-id="ディスカバリーチャンネル_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65534-121-400x400.png?",(haru) ディスカバリーチャンネル
+http://ha-ip.f5.si:9394/stream/99.m3u8
+#EXTINF:-1 group-title="" tvg-id="MUSIC-ON!-TV(エムオン!)_jp" tvg-logo="https://api2.bangumi.org/repix/monomedia/logo/csp/logo-000A-641-75x75.png?",(haru) MUSIC-ON!-TV(エムオン!)
+http://ha-ip.f5.si:9394/stream/131.m3u8
+#EXTINF:-1 group-title="" tvg-id="MTV_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-150-400x400.png?",(haru) MTV
+http://ha-ip.f5.si:9394/stream/74.m3u8
+#EXTINF:-1 group-title="" tvg-id="タカラヅカ・スカイ・ステージ_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-154-400x400.png?",(haru) タカラヅカ・スカイ・ステージ
+http://ha-ip.f5.si:9394/stream/142.m3u8
+#EXTINF:-1 group-title="" tvg-id="FIGHTING-TV-サムライ_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-128-400x400.png?",(haru) FIGHTING-TV-サムライ
+http://ha-ip.f5.si:9394/stream/139.m3u8
+#EXTINF:-1 group-title="" tvg-id="ミュージック・ジャパンTV_jp" tvg-logo="https://api2.bangumi.org/repix/monomedia/logo/csp/logo-000A-639-75x75.png?",(haru) ミュージック・ジャパンTV
+http://ha-ip.f5.si:9394/stream/156.m3u8
+#EXTINF:-1 group-title="" tvg-id="ミュージック・エア_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-161-400x400.png?",(haru) ミュージック・エア
+http://ha-ip.f5.si:9394/stream/149.m3u8
+#EXTINF:-1 group-title="" tvg-id="歌謡ポップスチャンネル_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-175-400x400.png?",(haru) 歌謡ポップスチャンネル
+http://ha-ip.f5.si:9394/stream/135.m3u8
+#EXTINF:-1 group-title="" tvg-id="スーパー!ドラマTV_jp" tvg-logo="https://api2.bangumi.org/repix/monomedia/logo/csp/logo-000A-647-75x75.png?",(haru) スーパー!ドラマTV
+http://ha-ip.f5.si:9394/stream/133.m3u8
+#EXTINF:-1 group-title="" tvg-id="スペースシャワーTV_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-156-400x400.png?",(haru) スペースシャワーTV
+http://ha-ip.f5.si:9394/stream/236.m3u8
+#EXTINF:-1 group-title="haru" tvg-id="ダンスチャンネル_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-105-400x400.png?",(haru) ダンスチャンネル　放送終了
+http://ha-ip.f5.si:9394/stream/140.m3u8
+#EXTINF:-1 group-title="" tvg-id="Pigoo_jp" tvg-logo="https://api2.bangumi.org/repix/monomedia/logo/csp/logo-000A-663-75x75.png?",(haru) Pigoo
+http://ha-ip.f5.si:9394/stream/234.m3u8
+#EXTINF:-1 group-title="" tvg-id="鉄道チャンネル_jp" tvg-logo="https://api2.bangumi.org/repix/monomedia/logo/csp/logo-000A-546-75x75.png?",(haru) 鉄道チャンネル
+http://ha-ip.f5.si:9394/stream/158.m3u8
+#EXTINF:-1 group-title="" tvg-id="スポーツライブ+_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-106-400x400.png?",(haru) スポーツライブ+
+http://ha-ip.f5.si:9394/stream/150.m3u8
+#EXTINF:-1 group-title="" tvg-id="TBS-NEWS_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-152-400x400.png?",(haru) TBS-NEWS
+http://ha-ip.f5.si:9394/stream/233.m3u8
+#EXTINF:-1 group-title="" tvg-id="CNNj_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-180-400x400.png?",(haru) CNNj
+http://ha-ip.f5.si:9394/stream/315.m3u8
+#EXTINF:-1 group-title="" tvg-id="日テレNEWS24_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-102-400x400.png?",(haru) 日テレNEWS24
+http://ha-ip.f5.si:9394/stream/112.m3u8
